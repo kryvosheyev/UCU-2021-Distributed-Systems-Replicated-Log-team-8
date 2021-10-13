@@ -3,7 +3,7 @@ homework project for UCU 2021 Data Engineering program
 
 3 labs = 3 folders
 For example, log-1 contains code for Replicated-Log-1
-inside /log-1  you see the file "replicated-log-1.drawio.svg"
+inside /log-1  you see the file "replicated-log-specs-log1.drawio.svg"
 It show the flow, and green blocks show the specs.
 For example, in log-1 the specs are:
  
